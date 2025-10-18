@@ -1,0 +1,110 @@
+My courses / 19CS565 / CIA - I EXAMINATION 2025-2026 / PART B and C Questions
+
+Time left 1:05:02 Hide
+
+Information
+
+Answer All Questions
+
+Information
+
+6.(A)
+
+Question 1
+Not yet answered
+Marked out of 1.00
+
+Explain the key concepts and terminologies associated with RPA.
+
+Edit View Insert Format Tools Table Help
+
+ 
+p 0 words
+
+Information
+
+(OR)
+
+Information
+
+6.(B)Question 2
+Not yet answered
+Marked out of 1.00
+
+Compare and contrast diﬀerent RPA tools available in the market. Focus on UiPath.
+
+Edit View Insert Format Tools Table Help
+
+ 
+p 0 words
+
+Information
+
+7.(A)
+
+Question 3
+Not yet answered
+Marked out of 1.00
+
+Analyze a case study where a business process was successfully automated using UiPath. Discuss the workflow design, control flow activities, and error
+handling mechanisms used.
+
+Edit View Insert Format Tools Table Help
+
+ 
+p 0 words
+
+Information
+
+(OR)
+
+Information
+
+7.(B)Question 4
+Not yet answered
+Marked out of 1.00
+
+How are variables and arguments used in UiPath? Provide examples of their application.
+
+Edit View Insert Format Tools Table Help
+
+ 
+p 0 words
+
+Information
+
+8.(A)
+
+Question 5
+Not yet answered
+Marked out of 1.00
+
+Evaluate the evolution of Robotic Process Automation (RPA) and its impact on modern business processes. Discuss the benefits and
+challenges associated with RPA adoption.
+
+Edit View Insert Format Tools Table Help
+
+ 
+p 0 words
+
+Information
+
+(OR)
+
+Information
+
+8.(B)Question 6
+Not yet answered
+Marked out of 1.00
+
+Analyze the key components and functionalities of UiPath Studio, explaining how they support the RPA development lifecycle. Include a
+discussion on the significance of UiPath Orchestrator in managing automated workflows.
+
+Edit View Insert Format Tools Table Help
+
+ 
+p 0 words
+
+◄ PART A
+Jump to...
+Part B and C Answer Script ►
